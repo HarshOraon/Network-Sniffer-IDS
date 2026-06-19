@@ -1,0 +1,8 @@
+__pycache__/
+*.pcap
+*.log
+*.stdout
+*.stderr
+*.html
+*.db
+*.csv
