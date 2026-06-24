@@ -4,7 +4,7 @@ This folder contains `packet_capture.py`, a small command-line packet capture to
 
 It can:
 
-- capture live packets
+- capture live packets,
 - print TCP, UDP, ICMP, ARP, IPv4, and IPv6 summaries
 - save captured packets to a `.pcap` file
 - use Scapy/Npcap when installed
